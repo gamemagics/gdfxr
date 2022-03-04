@@ -4,7 +4,7 @@ using System;
 public class VersionButton : LinkButton {
 
     [Export]
-    private String website;
+    private string website;
 
     private EditorPlugin plugin;
 
